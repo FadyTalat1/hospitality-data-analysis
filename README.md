@@ -9,6 +9,11 @@ Provide actionable insights into guest behavior, booking patterns, and business 
 - 📌 **[Trello Workflow](https://github.com/FadyTalat1/hospitality-data-analysis/blob/main/Trello3.jpg)**
 - 📊 **[Dashboard (PDF Format)](https://github.com/FadyTalat1/hospitality-data-analysis/blob/main/Hospitality-Revenue-Insights-Dashboard.pdf)**
 
+
+🚀 Tools Used
+Power BI for data visualization.
+Trello for project management.
+
 ⚠ **Note:** The dashboard is provided as a PDF due to technical limitations. However, it includes all key insights and visualizations needed to understand the analysis.  
 
 ---
